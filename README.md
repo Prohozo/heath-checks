@@ -1,2 +1,1 @@
-# heath-checks
-Check if my computer is heathy!!!!
+I am editing the README file. Adding some more details zbout the project description.
